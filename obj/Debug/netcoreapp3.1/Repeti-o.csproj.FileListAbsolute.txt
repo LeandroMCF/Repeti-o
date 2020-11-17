@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\bin\Debug\netcoreapp3.1\Repeti-o.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\bin\Debug\netcoreapp3.1\Repeti-o.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\bin\Debug\netcoreapp3.1\Repeti-o.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\bin\Debug\netcoreapp3.1\Repeti-o.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\bin\Debug\netcoreapp3.1\Repeti-o.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\bin\Debug\netcoreapp3.1\Repeti-o.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\obj\Debug\netcoreapp3.1\Repeti-o.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\obj\Debug\netcoreapp3.1\Repeti-o.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\obj\Debug\netcoreapp3.1\Repeti-o.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\obj\Debug\netcoreapp3.1\Repeti-o.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\obj\Debug\netcoreapp3.1\Repeti-o.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\obj\Debug\netcoreapp3.1\Repeti-o.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Repeti-o\obj\Debug\netcoreapp3.1\Repeti-o.genruntimeconfig.cache
