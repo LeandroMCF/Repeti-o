@@ -20,7 +20,7 @@ namespace Repeti_o
                 {
                     contador = contador + 1;
                     tabuada = numero * contador;
-                    Console.WriteLine(tabuada);
+                    Console.WriteLine($"{numero} x {contador} = {tabuada}");
                 }
                 Console.WriteLine("Fim");
                 Console.WriteLine("Deseja ver outro número? \n [1] para ver outro número \n [2] para sair");
