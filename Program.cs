@@ -6,17 +6,28 @@ namespace Repeti_o
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Aprendendo WHILE");
             int numero;
-            int contador = 0; 
+            int contador;
+            int tabuada;
+            int rep = 1;
 
-            Console.Write("Digite um número: ");
-            numero = int.Parse(Console.ReadLine());
-            while (contador <= numero)
+            while (rep == 1)
             {
-                Console.WriteLine(contador);
-                contador = contador + 1;
+                Console.Write("Digite um numero para saber sua tabuada: ");
+                numero = int.Parse(Console.ReadLine());
+                contador = 0;
+                while (contador < 10)
+                {
+                    contador = contador + 1;
+                    tabuada = numero * contador;
+                    Console.WriteLine(tabuada);
+                }
+                Console.WriteLine("Fim");
+                Console.WriteLine("Deseja ver outro número? \n [1] para ver outro número \n [2] para sair");
+                rep = int.Parse(Console.ReadLine());
             }
+            Console.WriteLine("Fim da tabuada");
+            
         }
     }
 }
